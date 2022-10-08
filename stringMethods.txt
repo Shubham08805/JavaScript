@@ -35,15 +35,15 @@ split(): It splits a string into substring array, then returns that newly create
 trim(): It trims the white space from the left and right side of the string.
 
 Examaple 1:
- var x ="Adarsh ";  
- var y ="Chaudhary";  
+ var x ="Shubham ";  
+ var y ="Pal";  
  var z = x.concat(y);  
-Here z will store Adarsh Chaudhary.
+Here z will store Shubham Pal.
 Examaple 2:
- var x = "Adarsh Chaudhary";  
+ var x = "Shubham Pal";  
  var z = x.toUpperCase();  
-Here z will store ADARSH CHAUDHARY.
+Here z will store Shubham Pal.
 Examaple 3:
- var x = "    Adarsh    ";  
+ var x = "    Shubham    ";  
  var z = x.trim();  
-Here z will store Adarsh.
+Here z will store Shubham.
