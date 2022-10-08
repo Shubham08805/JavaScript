@@ -167,3 +167,4 @@ console.log(4==5==0);
 
 // console.log(b)
 
+// a should be print after 5 sec , e  should be print after 4 sec,
